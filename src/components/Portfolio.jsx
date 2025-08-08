@@ -167,15 +167,11 @@ const Portfolio = () => {
           </p>
           <p className="text-base sm:text-lg text-gray-300 mb-4">
             D.Y. Patil College of Engineering and Technology | B.Tech in Data
-            Science (CGPA: 8.5+)
+            Science (CGPA: 8.5)
           </p>
           <p className="mb-4 text-gray-300 text-base sm:text-lg">
-            Full Stack Developer with{" "}
-            <span className="font-bold md:text-2xl">10+ projects</span> built
-            using MERN, TypeScript, and Flask. Boosted Web app performance by up
-            to <span className="font-bold md:text-2xl">40%</span>, integrated AI
-            models for personalized user experiences, and designed scalable
-            backend systems.
+
+            Full Stack Developer with 1+ year experience building scalable, AI-powered web apps using MERN, Flask, and modern cloud platforms. Skilled at bridging frontend elegance with robust backend architecture, delivering personalized user experiences through integrated ML models and real-time analytics.
           </p>
           <div className="flex gap-4">
             <a href="https://github.com/prathmesh-sargar" className="hover:text-gray-400 transition-colors">
@@ -466,8 +462,8 @@ const Portfolio = () => {
                 completion rates
               </li>
               <li>
-                Winner of multiple national and inter-college technical
-                competitions
+                Won <span className="font-bold md:text-xl" >5+ national</span> tech competitions including Startup Pitches, Hackathons & Project competitions.
+
               </li>
               <li>
                 Founder & Creator of YouTube Channel <span><a className="text-bold text-xl" href="https://www.youtube.com/@prathmesh-tech">( Prathmesh Tech )</a></span> with tech
